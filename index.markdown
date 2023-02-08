@@ -4,3 +4,6 @@
 
 layout: home
 ---
+Hello!
+
+This is my personal site, and my online handle is Cherry.
